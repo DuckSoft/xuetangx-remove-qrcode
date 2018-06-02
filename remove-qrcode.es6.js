@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         xuetangx-remove-qrcode
 // @namespace    https://github.com/DuckSoft
-// @version      0.2
+// @version      0.2.1
 // @description  移除学堂在线课程的强制微信扫码关注
 // @author       DuckSoft
-// @match        http://www.xuetangx.com/courses/*
-// @match        https://www.xuetangx.com.courses/*
+// @match        *://www.xuetangx.com/courses/*
 // @grant        none
 // ==/UserScript==
 
